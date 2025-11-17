@@ -182,6 +182,9 @@ plt.show()
 ```
 <img width="329" height="411" alt="download" src="https://github.com/user-attachments/assets/f34486bb-dbdd-453b-9619-b1f618b30ad9" />
 
+# RESULT:
+      Thus the program to implement Face Detection using Haar Cascades was executed successfully.
+
 
 
 
